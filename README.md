@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abdi1509/LeetCode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abdi1509/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Dynamic Programming
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Abdi1509/LeetCode/tree/master/0058-length-of-last-word) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Abdi1509/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
