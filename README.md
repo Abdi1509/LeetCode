@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Abdi1509/LeetCode/tree/master/0058-length-of-last-word) |
+| [3396-valid-word](https://github.com/Abdi1509/LeetCode/tree/master/3396-valid-word) |
 ## Hash Table
 |  |
 | ------- |
